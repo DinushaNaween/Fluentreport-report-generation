@@ -1,0 +1,12 @@
+.idea/
+node_modules/
+*.ttf
+*.pdf
+test/
+*.txt
+*.tgz
+*.exe
+*.stackdump
+*.bat
+testmem.js
+fr.js
